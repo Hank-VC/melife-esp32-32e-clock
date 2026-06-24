@@ -18,7 +18,7 @@
 #include <Fonts/FreeSansBold18pt7b.h> // Base 18pt font scaled by 3 for a max single-line clock
 
 // --- Wi-Fi Credentials ---
-const char* ssid = "VC-Guest";
+const char* ssid = "YOUR_SSID";
 // const char* password = "YOUR_WIFI_PASSWORD";
 // Uncomment the above line and substitute string with your own password if needed.
 
